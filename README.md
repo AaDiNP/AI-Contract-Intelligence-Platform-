@@ -59,5 +59,5 @@ The system identifies:
 ```text
 AI-Contract-Intelligence-Platform/
 │
-├── AI_Contract_Intelligence_Platform.ipynb
+├── AI_Contract_Intelligence_Platform(1).ipynb
 └── README.md
